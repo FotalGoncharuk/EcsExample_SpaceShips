@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "com.unity.entities": "0.0.12-preview.5",
+    "com.unity.render-pipelines.lightweight": "0.1.28"
+  },
+  "registry": "https://packages.unity.com",
+  "testables": [
+    "com.unity.collections",
+    "com.unity.entities",
+    "com.unity.jobs"
+  ]
+}
