@@ -1,6 +1,3 @@
-
-![made-with-unity-black.png]({{site.baseurl}}/Images/made-with-unity-black.png)
-
 Это пример использования Entity Component System + Job System, базируется на видеоуроках от Unity: https://www.youtube.com/watch?v=WLfhUKp2gag
 
 В проекте находятся две сцены: 
